@@ -1,4 +1,4 @@
-# arduino-invertedPendulum
+# InvertedPendulum - Tersinir Sarkaç
 Ters Sarkaç yada Tersinir Sarkaç projesi.. kısaca.. 4 teker araç platformu üzerinde bir kol üzerinde duran ağırlığı dengeleme..
 projede gyro sensor değil potansiyometre kullanılmıştır. potansiyometrenin ürettiği direnç açıya çevrilmiş,
 değişen açıya göre de PID algoritması ile denge sağlama işlemi gerçekleştirilmeye çalışılmıştır.
